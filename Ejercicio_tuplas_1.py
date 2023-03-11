@@ -10,3 +10,4 @@ print(suma)
 promedio=suma/len(tuplanumerica)
 print(promedio)
 
+print ( )
